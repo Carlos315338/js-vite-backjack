@@ -11,4 +11,5 @@ Pasos para ejecutar proyecto:
 Producción 
 
 1. Ejecutar ``npm run build``
-2. Tomar la carpeta ``dist`` y desplegarla
+2. Tomar la carpeta ``dist`` y desplegarla ``:D``
+
